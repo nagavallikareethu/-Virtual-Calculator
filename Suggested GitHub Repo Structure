@@ -1,0 +1,6 @@
+virtual-calculator/
+│
+├── .env.example
+├── requirements.txt
+├── calculator.py
+├── README.md
