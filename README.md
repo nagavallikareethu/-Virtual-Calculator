@@ -62,3 +62,6 @@ Thumb + Middle Up: Erase mode
 Thumb + Pinky Up: Clear canvas
 
 Index + Middle Up: Analyze equation
+
+<img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/7a61216b-5966-442e-8c74-d0671ce8ecb2" />
+
